@@ -1,5 +1,5 @@
 {
-  "GetAccountDetails": [
+  "GetAccountDetails":
       { "accountNo": "12345678901234",
         "address": "36 ALI BABA LONDON",
         "email": "",
@@ -13,6 +13,5 @@
         "schm_code": "DDUBA",
         "date_of_birth": "1/1/1940",
         "phone": ""
-        }
-    ]
+      }
 }
