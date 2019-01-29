@@ -1,7 +1,6 @@
 {
   "GetAccountDetails": [
       { 
-        "id": 1,
         "accountNo": "12345678901234",
         "address": "36 ALI BABA LONDON",
         "email": "",
@@ -17,7 +16,6 @@
         "phone": ""
       },
       { 
-        "id": 2,
         "accountNo": "234567890123",
         "address": "4 BOLA ADELEKE LONDON",
         "email": "",
