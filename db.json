@@ -1,6 +1,6 @@
 {
   "GetAccountDetails":
-      { "accountNo": "12345678901234",
+      { "id": "12345678901234",
         "address": "36 ALI BABA LONDON",
         "email": "",
         "name": "UNITED BANK FOR AFRICA PLC",
