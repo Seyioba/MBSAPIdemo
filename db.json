@@ -13,7 +13,8 @@
         "currency": "USD",
         "schm_code": "DDUBA",
         "date_of_birth": "1/1/1940",
-        "phone": ""
+        "phone": "",
+        "cifID": "C000000045"
       },
       { 
         "accountNo": "234567890123",
@@ -28,7 +29,8 @@
         "currency": "USD",
         "schm_code": "DDUBA",
         "date_of_birth": "1/1/1940",
-        "phone": ""
+        "phone": "",
+        "cifID": "C000000046"
       }
     ]
 }
