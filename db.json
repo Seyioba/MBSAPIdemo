@@ -15,5 +15,115 @@
         "date_of_birth": "1/1/1940",
         "phone": "",
         "cifID": "C000000045"
-      }
+      },
+    "GetAccountByCifId": [
+    {
+      "AccountNo": "70011410002394",
+      "sch_code": "DDUBA",
+      "schm_type": "ODA",
+      "avl_bal": "46966.19",
+      "clr_bal": "46966.19",
+      "sol_id": "7001",
+      "currency": null
+    },
+    {
+      "AccountNo": "70011410002400",
+      "sch_code": "DDUBA",
+      "schm_type": "ODA",
+      "avl_bal": "-467365.40",
+      "clr_bal": "-467365.40",
+      "sol_id": "7001",
+      "currency": null
+    },
+    {
+      "AccountNo": "70011410002455",
+      "sch_code": "DDUBA",
+      "schm_type": "ODA",
+      "avl_bal": "-2923.41",
+      "clr_bal": "-2923.41",
+      "sol_id": "7001",
+      "currency": null
+    },
+    {
+      "AccountNo": "70010800001915",
+      "sch_code": "LCCOL",
+      "schm_type": "ODA",
+      "avl_bal": "524704",
+      "clr_bal": "524704",
+      "sol_id": "7001",
+      "currency": null
+    },
+    {
+      "AccountNo": "70010800001922",
+      "sch_code": "LCCOL",
+      "schm_type": "ODA",
+      "avl_bal": "1655728.84",
+      "clr_bal": "1655728.84",
+      "sol_id": "7001",
+      "currency": null
+    },
+    {
+      "AccountNo": "70017170005241",
+      "sch_code": "DDUBA",
+      "schm_type": "ODA",
+      "avl_bal": "0",
+      "clr_bal": "0",
+      "sol_id": "7001",
+      "currency": null
+    },
+    {
+      "AccountNo": "70017170002264",
+      "sch_code": "DDUBA",
+      "schm_type": "ODA",
+      "avl_bal": "-3034598.56",
+      "clr_bal": "-3034598.56",
+      "sol_id": "7001",
+      "currency": null
+    },
+    {
+      "AccountNo": "70017170001960",
+      "sch_code": "DDUBA",
+      "schm_type": "ODA",
+      "avl_bal": "14065.76",
+      "clr_bal": "14065.76",
+      "sol_id": "7001",
+      "currency": null
+    },
+    {
+      "AccountNo": "70011410002998",
+      "sch_code": "DDUBA",
+      "schm_type": "ODA",
+      "avl_bal": "32419.68",
+      "clr_bal": "32419.68",
+      "sol_id": "7001",
+      "currency": null
+    },
+    {
+      "AccountNo": "70011600004824",
+      "sch_code": "NOSTR",
+      "schm_type": "ODA",
+      "avl_bal": "-102203.71",
+      "clr_bal": "-102203.71",
+      "sol_id": "7001",
+      "currency": null
+    },
+    {
+      "AccountNo": "70017170005036",
+      "sch_code": "DDUBA",
+      "schm_type": "ODA",
+      "avl_bal": "-3799.95",
+      "clr_bal": "-3799.95",
+      "sol_id": "7001",
+      "currency": null
+    },
+    {
+      "AccountNo": "70011410004251",
+      "sch_code": "DDUBA",
+      "schm_type": "ODA",
+      "avl_bal": "0",
+      "clr_bal": "0",
+      "sol_id": "7001",
+      "currency": null
+    }
+  ]
 }
