@@ -57,7 +57,8 @@
       "avl_bal": "46966.19",
       "clr_bal": "46966.19",
       "sol_id": "7001",
-      "currency": null
+      "currency": null,
+      "cifID": "C000000045"
     },
     {
       "AccountNo": "70011410002400",
@@ -66,7 +67,8 @@
       "avl_bal": "-467365.40",
       "clr_bal": "-467365.40",
       "sol_id": "7001",
-      "currency": null
+      "currency": null,
+      "cifID": "C000000045"
     },
     {
       "AccountNo": "70011410002455",
@@ -75,7 +77,8 @@
       "avl_bal": "-2923.41",
       "clr_bal": "-2923.41",
       "sol_id": "7001",
-      "currency": null
+      "currency": null,
+      "cifID": "C000000045"
     },
     {
       "AccountNo": "70010800001915",
