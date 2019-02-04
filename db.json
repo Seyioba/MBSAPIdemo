@@ -57,7 +57,7 @@
       "avl_bal": "46966.19",
       "clr_bal": "46966.19",
       "sol_id": "7001",
-      "currency": null,
+      "currency": "GBP",
       "cifID": "C000000045"
     },
     {
@@ -67,7 +67,7 @@
       "avl_bal": "-467365.40",
       "clr_bal": "-467365.40",
       "sol_id": "7001",
-      "currency": null,
+      "currency": "GBP",
       "cifID": "C000000045"
     },
     {
@@ -77,7 +77,7 @@
       "avl_bal": "-2923.41",
       "clr_bal": "-2923.41",
       "sol_id": "7001",
-      "currency": null,
+      "currency": "GBP",
       "cifID": "C000000045"
     },
     {
@@ -87,7 +87,7 @@
       "avl_bal": "524704",
       "clr_bal": "524704",
       "sol_id": "7001",
-      "currency": null
+      "currency": "GBP"
     },
     {
       "AccountNo": "70010800001922",
@@ -96,7 +96,7 @@
       "avl_bal": "1655728.84",
       "clr_bal": "1655728.84",
       "sol_id": "7001",
-      "currency": null
+      "currency": "GBP"
     },
     {
       "AccountNo": "70017170005241",
@@ -105,7 +105,7 @@
       "avl_bal": "0",
       "clr_bal": "0",
       "sol_id": "7001",
-      "currency": null
+      "currency": "GBP"
     },
     {
       "AccountNo": "70017170002264",
@@ -114,7 +114,7 @@
       "avl_bal": "-3034598.56",
       "clr_bal": "-3034598.56",
       "sol_id": "7001",
-      "currency": null
+      "currency": "GBP"
     },
     {
       "AccountNo": "70017170001960",
@@ -123,7 +123,7 @@
       "avl_bal": "14065.76",
       "clr_bal": "14065.76",
       "sol_id": "7001",
-      "currency": null
+      "currency": "GBP"
     },
     {
       "AccountNo": "70011410002998",
@@ -132,7 +132,7 @@
       "avl_bal": "32419.68",
       "clr_bal": "32419.68",
       "sol_id": "7001",
-      "currency": null
+      "currency": "GBP"
     },
     {
       "AccountNo": "70011600004824",
@@ -141,7 +141,7 @@
       "avl_bal": "-102203.71",
       "clr_bal": "-102203.71",
       "sol_id": "7001",
-      "currency": null
+      "currency": "GBP"
     },
     {
       "AccountNo": "70017170005036",
@@ -150,7 +150,7 @@
       "avl_bal": "-3799.95",
       "clr_bal": "-3799.95",
       "sol_id": "7001",
-      "currency": null
+      "currency": "GBP"
     },
     {
       "AccountNo": "70011410004251",
@@ -159,7 +159,7 @@
       "avl_bal": "0",
       "clr_bal": "0",
       "sol_id": "7001",
-      "currency": null
+      "currency": "GBP"
     }
   ]
 }
