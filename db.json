@@ -1,54 +1,9 @@
 {
-    "GetAccountDetails": [
-    {
-      "accountNo": "12345678901234",
-      "address": "36 ALI BABA LONDON",
-      "email": "",
-      "name": "UNITED BANK FOR AFRICA PLC",
-      "type": "OVER DRAFT",
-      "category": "CORPORATE",
-      "avl_bal": "-3034598.56",
-      "clr_bal": "-3034598.56",
-      "sol_id": "1234",
-      "currency": "USD",
-      "schm_code": "DDUBA",
-      "date_of_birth": "1/1/1940",
-      "phone": "",
-      "cifID": "C000000045"
+    "GetAccountDetails": {
+      "status": "02",
+      "msg": "No records",
+      "data": null
     },
-    {
-      "accountNo": "70981234567821",
-      "address": "37 ALI BABA LONDON",
-      "email": "",
-      "name": "UNITED BANK FOR AFRICA PLC",
-      "type": "OVER DRAFT",
-      "category": "CORPORATE",
-      "avl_bal": "-3034598.56",
-      "clr_bal": "-3034598.56",
-      "sol_id": "1234",
-      "currency": "USD",
-      "schm_code": "DDUBA",
-      "date_of_birth": "1/1/1940",
-      "phone": "",
-      "cifID": "C000000046"
-    },
-    {
-      "accountNo": "43567890654321",
-      "address": "38 ALI BABA LONDON",
-      "email": "",
-      "name": "UNITED BANK FOR AFRICA PLC",
-      "type": "OVER DRAFT",
-      "category": "CORPORATE",
-      "avl_bal": "-3034598.56",
-      "clr_bal": "-3034598.56",
-      "sol_id": "1234",
-      "currency": "USD",
-      "schm_code": "DDUBA",
-      "date_of_birth": "1/1/1940",
-      "phone": "",
-      "cifID": "C000000047"
-    }
-  ],
     "GetAccountByCifId": [
     {
       "AccountNo": "70011410002394",
